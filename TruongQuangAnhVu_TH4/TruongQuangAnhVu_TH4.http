@@ -1,0 +1,6 @@
+@TruongQuangAnhVu_TH4_HostAddress = http://localhost:5137
+
+GET {{TruongQuangAnhVu_TH4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
